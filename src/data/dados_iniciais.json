@@ -1,41 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Front-End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Descubra o que é desenvolvimento front-end",
+        "url": "https://www.igti.com.br/blog/o-que-faz-um-desenvolvedor-front-end/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "As Skills de um Desenvolvedor Front-End",
+          "url": "https://www.youtube.com/watch?v=TWy2rxyZLrE"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "O que um dev front-end faz?",
+          "url": "https://www.youtube.com/watch?v=i9lQKN8GSs4"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Programador Júnior, Pleno e Sênior",
+          "url": "https://www.youtube.com/watch?v=ZTU9yFyptMY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "TODO desenvolvedor FRONTEND deveria saber disso!",
+          "url": "https://www.youtube.com/watch?v=oGy1qDSfjXo"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "O que é HTML?",
+          "url": "https://www.youtube.com/watch?v=RISPTY1Lh2A"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Como entrei na área de TI e virei desenvolvedora front-end",
+          "url": "https://www.youtube.com/watch?v=LNFoll3stV8"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "O que é CSS? Como funciona? (Estilização com CSS)",
+          "url": "https://www.youtube.com/watch?v=0oQzcVNEgwo"
+        },
+        {
+          "titulo": "JAVASCRIPT EM 6 MINUTOS: Tudo Que Você Precisa saber!",
+          "url": "https://www.youtube.com/watch?v=Fu6p9TidKZc"
         },
         {
           "titulo": "Base para aprender os frameworks",
@@ -44,13 +48,17 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Back-End",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Descubra o que é desenvolvimento back-end",
+        "url": "https://www.zup.com.br/blog/desenvolvimento-back-end-o-que-e"
       },
       "videos": [
+        {
+          "titulo": "Seja um Programador Back-End de Sucesso (dicas que gostaríamos ter recebido)",
+          "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI"
+        },
         {
           "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
           "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
